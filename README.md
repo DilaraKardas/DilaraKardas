@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dilara Kardas</h1>
 <h3 align="center">A passionate mobile developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **Flutter, Python**
+- 🌱 I’m currently learning **Flutter**
 
 - 📝 I regularly write articles on [https://medium.com/@dlrkardas](https://medium.com/@dlrkardas)
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **mobile development**
 
 - 📫 How to reach me **dlrkardas@gmail.com**
 
-- ⚡ Fun fact **I love every kind of sitcom:)**
+- ⚡ Fun fact **I love watching sitcom:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
