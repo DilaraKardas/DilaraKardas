@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dilara Kardas</h1>
-<h3 align="center">A passionate mobile developer from Türkiye</h3>
+<h3 align="center">A passionate software developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **ViT**
 
 - 📝 I regularly write articles on [https://medium.com/@dlrkardas](https://medium.com/@dlrkardas)
-
-- 💬 Ask me about **mobile development**
 
 - 📫 How to reach me **dlrkardas@gmail.com**
 
