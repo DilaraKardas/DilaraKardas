@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilara Kardas</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **Transformers**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📝 I regularly write articles on [https://medium.com/@dlrkardas](https://medium.com/@dlrkardas)
 
