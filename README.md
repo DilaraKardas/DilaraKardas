@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **dlrkardas@gmail.com**
 
-- 📄 Know about my experiences [link](link)
-
 - ⚡ Fun fact **I love watching sitcoms :)**
 
 <h3 align="left">Connect with me:</h3>
